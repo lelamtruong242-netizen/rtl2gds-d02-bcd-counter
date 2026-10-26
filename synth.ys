@@ -1,0 +1,5 @@
+read_verilog tt_um_bcd_counter.v
+synth -top tt_um_bcd_counter
+stat
+
+
